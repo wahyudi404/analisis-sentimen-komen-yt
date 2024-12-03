@@ -67,7 +67,7 @@ def video_comments(video_id):
 
 # Jalankan Proses Crawling
 # isikan dengan api key Anda
-api_key = 'AIzaSyAlTUlH5n9l-328TWogSvohHDb7gOIRZQ4'
+api_key = 'API_KEY'
 
 # Enter video id
 # contoh url video = https://www.youtube.com/watch?v=5tucmKjOGi8
